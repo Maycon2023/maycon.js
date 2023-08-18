@@ -5,7 +5,7 @@ const listaDeDestinos = new Array(
     `Rio de Janeiro`
 );
 
-const idadeComprador = 17;
+const idadeComprador = 18;
 const estaAcompanhada = false;
 const temPassagemComprada = true;
 
@@ -44,18 +44,3 @@ console.log(listaDeDestinos);
 // console.log(idadeComprador <= 18);
 // console.log(idadeComprador >= 18);
 // console.log(idadeComprador == 18);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Bom dia
